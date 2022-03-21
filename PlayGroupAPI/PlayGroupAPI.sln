@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32104.313
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayGroupAPI", "PlayGroupAPI\PlayGroupAPI.csproj", "{68B4D1FA-95A0-45B7-A887-93F055E3CEAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B4D1FA-95A0-45B7-A887-93F055E3CEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B4D1FA-95A0-45B7-A887-93F055E3CEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B4D1FA-95A0-45B7-A887-93F055E3CEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B4D1FA-95A0-45B7-A887-93F055E3CEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {303BA8AE-F85C-49C3-8E86-3E773065A3E7}
+	EndGlobalSection
+EndGlobal

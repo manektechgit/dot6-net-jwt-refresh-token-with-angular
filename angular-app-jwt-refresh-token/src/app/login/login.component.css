@@ -1,0 +1,22 @@
+p {
+  font-family: Lato;
+}
+
+
+.form-control-feedback{
+      animation: 1.0s alertAnim forwards;
+}
+
+
+@keyframes alertAnim {
+    from {
+        opacity:0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity:1;
+        transform: translateY(0);
+    }
+}
+
+@import '~mdb-ui-kit/css/mdb.min.css';
